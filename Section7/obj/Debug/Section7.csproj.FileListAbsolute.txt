@@ -1,0 +1,10 @@
+D:\WEB20\lynda\CSource\Section7\bin\Debug\UnitTestProject1.dll
+D:\WEB20\lynda\CSource\Section7\bin\Debug\UnitTestProject1.pdb
+D:\WEB20\lynda\CSource\Section7\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\WEB20\lynda\CSource\Section7\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\WEB20\lynda\CSource\Section7\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\WEB20\lynda\CSource\Section7\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\WEB20\lynda\CSource\Section7\obj\Debug\Section7.csprojAssemblyReference.cache
+D:\WEB20\lynda\CSource\Section7\obj\Debug\Section7.csproj.CopyComplete
+D:\WEB20\lynda\CSource\Section7\obj\Debug\UnitTestProject1.dll
+D:\WEB20\lynda\CSource\Section7\obj\Debug\UnitTestProject1.pdb
